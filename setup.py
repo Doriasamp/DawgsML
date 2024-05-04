@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='DawgsML',
-    version='0.0.1',
+    version='0.0.2',
     author='Andrea Marchi',
     author_email='andreaphilly@hotmail.com',
     description='A simple library for machine learning without a requirements.txt',
@@ -14,9 +14,6 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'Intended Audience :: Data Scientists',
-        'Intended Audience :: Data Analysts',
-        'Intended Audience :: Machine Learning Engineers',
         'Topic :: Software Development :: Libraries',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
